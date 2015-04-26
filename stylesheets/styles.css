@@ -46,6 +46,9 @@ main#content {
   font-size: 14px;
 }
 
+main img {
+  width: 100%;
+}
 main > ul {
   list-style-type: none;
   padding-left: 0;
