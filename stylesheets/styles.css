@@ -15,7 +15,7 @@ div.wrapper {
 aside {
   position: fixed;
   float: left;
-  width: 450px;
+  width: 300px;
   line-height: 2em;
 }
 
@@ -34,4 +34,10 @@ aside nav {
 aside nav ul {
     list-style-type: none;
     margin: 0;
+}
+
+main#content {
+  width: 600px;
+  float: right;
+  padding-bottom: 50px;
 }
