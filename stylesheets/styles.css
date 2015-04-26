@@ -42,8 +42,8 @@ main#content {
 
 .video {
 	position: relative;
-	padding-bottom: 56.25%;
-	padding-top: 30px;
+	padding-bottom: 50%;
+  margin-top: 0;
 	height: 0;
 	overflow: hidden;
 }
