@@ -11,8 +11,7 @@ defaults:
       title: "VANITAS WOLF"
 
 collections:
-  works:
-    output: true
+- works
 
 #google_analytics:
 #  account: UA-6031251-4
