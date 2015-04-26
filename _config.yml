@@ -2,18 +2,18 @@ name: VANITAS WOLF
 url: http://vanitaswolf.de
 permalink: pretty
 
-collections:
-  works:
-    output: true
-    permalink: /works/:path/
+# collections:
+#   works:
+#     output: true
+#     permalink: /works/:path/
 
-# defaults:
-#   -
-#     scope:
-#       path: "" # empty string for all files
-#     values:
-#       layout: "default"
-#       title: "VANITAS WOLF"
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+      title: "VANITAS WOLF"
 
 #google_analytics:
 #  account: UA-6031251-4
