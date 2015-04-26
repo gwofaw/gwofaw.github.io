@@ -46,7 +46,13 @@ main#content {
   font-size: 14px;
 }
 
-pre{
+main > ul a {
+  color: #444;
+  text-decoration: none;
+  cursor: auto;
+}
+
+pre {
   margin-top: 8px
 }
 
