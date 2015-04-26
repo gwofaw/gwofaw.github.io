@@ -39,12 +39,14 @@ main#content {
   padding-bottom: 50px;
 }
 
-pre, code {
-  font-family: Consolino, monospace;
+pre{
   margin-top: 8px
 }
 
-
+code {
+  font-family: Consolino, monospace;
+  font-size: 11px;
+}
 
 .video {
 	position: relative;
