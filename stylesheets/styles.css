@@ -50,13 +50,13 @@ main img {
   max-width: 100%;
 }
 
-main img + br {
-  margin-bottom: 150px;
-}
-
 main > ul {
   list-style-type: none;
   padding-left: 0;
+}
+
+main > ul img {
+  margin-bottom: 150px;
 }
 
 main > ul p {
