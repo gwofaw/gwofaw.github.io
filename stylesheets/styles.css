@@ -48,6 +48,12 @@ main#content {
 
 main > ul {
   list-style-type: none;
+  padding-left: 0;
+}
+
+main > ul p {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 main > ul a {
