@@ -23,6 +23,7 @@ aside h1 {
   float: left;
   width: 100px;
   font-size: 16px;
+  font-weight: normal;
   margin: 0;
 }
 
