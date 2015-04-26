@@ -41,6 +41,7 @@ main#content {
 
 pre, code {
   font-family: Consolino, monospace;
+  margin-top: 0px
 }
 
 .video {
