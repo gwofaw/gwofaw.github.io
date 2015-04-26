@@ -5,6 +5,7 @@ permalink: pretty
 collections:
   works:
     output: true
+    permalink: /works/:path/
 
 defaults:
   -

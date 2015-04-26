@@ -5,8 +5,7 @@ title: works
 [...]
 
 {% for work in site.works %}
-  hello world
-
+[{{work.tagline}} [{{ work.title }}]](/works/{{work.title}})
 {% endfor %}
 
 [...]
