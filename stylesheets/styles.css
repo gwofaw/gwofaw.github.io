@@ -11,11 +11,11 @@ div.wrapper {
 aside {
   position: fixed;
   float: left;
-  width: 250px;
+  width: 450px;
 }
 aside h1 {
   float: left;
 
-  width: 100px;
-  font-size: 28px;
+  width: 250px;
+  font-size: 16px;
 }
