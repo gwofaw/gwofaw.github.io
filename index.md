@@ -1,4 +1,5 @@
 ---
+title: VANITAS WOLF
 ---
 
 <figure class=video>
