@@ -1,6 +1,9 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
 permalink: pretty
+relative_permalinks: false
+destination: _site
+baseurl: /
 
 defaults:
   -
@@ -11,7 +14,8 @@ defaults:
       title: "VANITAS WOLF"
 
 collections:
-- works
+  works:
+    output: true
 
 #google_analytics:
 #  account: UA-6031251-4
