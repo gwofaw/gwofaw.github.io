@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  color: #777;
+}
+
+div.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+aside {
+  position: fixed;
+  float: left;
+  width: 250px;
+}
+aside h1 {
+  float: left;
+
+  width: 100px;
+  font-size: 28px;
+}
