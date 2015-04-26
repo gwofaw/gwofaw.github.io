@@ -2,9 +2,9 @@ name: VANITAS WOLF
 url: http://vanitaswolf.de
 permalink: pretty
 
-collections:
-  works:
-    output: true
+# collections:
+#   works:
+#     output: true
 
 defaults:
   -
