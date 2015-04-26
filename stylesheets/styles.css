@@ -19,3 +19,11 @@ aside h1 {
   width: 250px;
   font-size: 16px;
 }
+
+aside nav {
+      display: inline-block;
+}
+
+aside nav ul {
+    list-style-type: none;
+}
