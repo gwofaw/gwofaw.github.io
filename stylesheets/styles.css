@@ -43,6 +43,7 @@ main#content {
   width: 700px;
   float: right;
   padding-bottom: 50px;
+  font-size: 11px;
 }
 
 pre{
@@ -51,7 +52,6 @@ pre{
 
 code {
   font-family: Consolino, monospace;
-  font-size: 11px;
 }
 
 .video {
