@@ -1,0 +1,17 @@
+name: VANITAS WOLF
+url: http://vanitaswolf.de
+
+collections:
+  works:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+      title: "VANITAS WOLF"
+
+#google_analytics:
+#  account: UA-6031251-4
