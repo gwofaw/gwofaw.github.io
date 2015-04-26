@@ -1,6 +1,8 @@
 body {
   padding: 50px;
   color: #777;
+  font-family: monospace;
+  font-size: 16px;
 }
 
 div.wrapper {
@@ -15,9 +17,9 @@ aside {
 }
 aside h1 {
   float: left;
-
-  width: 250px;
+  width: 80px;
   font-size: 16px;
+  margin: 0;
 }
 
 aside nav {
@@ -26,4 +28,5 @@ aside nav {
 
 aside nav ul {
     list-style-type: none;
+    margin: 0;
 }
