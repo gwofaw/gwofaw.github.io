@@ -39,7 +39,7 @@ main#content {
   padding-bottom: 50px;
 }
 
-pre {
+pre, code {
   font-family: Consolino, monospace;
 }
 
