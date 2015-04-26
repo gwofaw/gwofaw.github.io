@@ -33,6 +33,12 @@ aside nav ul {
     margin: 0;
 }
 
+aside a, aside a:hover, aside a:visited {
+  color: #444;
+  text-decoration: none;
+  cursor: auto;
+}
+
 main#content {
   width: 700px;
   float: right;
