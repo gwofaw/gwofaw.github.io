@@ -2,6 +2,8 @@
 title: vita
 ---
 
+<small>
+
     2010 2011
     2012 2013
     2014 2015 
@@ -28,3 +30,5 @@ title: vita
     may/june/july/august art students league new york
 
     1983* 
+
+</small>
