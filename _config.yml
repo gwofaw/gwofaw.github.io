@@ -3,7 +3,7 @@ url: http://vanitaswolf.de
 permalink: pretty
 
 collections:
-  works:
+  tralala:
     output: true
 
 defaults:
