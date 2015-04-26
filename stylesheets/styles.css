@@ -16,7 +16,9 @@ aside {
   position: fixed;
   float: left;
   width: 450px;
+  line-height: 2em;
 }
+
 aside h1 {
   float: left;
   width: 100px;
@@ -31,5 +33,4 @@ aside nav {
 aside nav ul {
     list-style-type: none;
     margin: 0;
-    line-height: 2em;
 }
