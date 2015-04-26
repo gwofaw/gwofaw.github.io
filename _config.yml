@@ -1,12 +1,10 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
 permalink: pretty
-relative_permalinks: true
-baseurl: /
 
 collections:
   - works:
-    output: true
+      output: true
 
 defaults:
   -
