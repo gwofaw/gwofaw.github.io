@@ -39,6 +39,9 @@ main#content {
   padding-bottom: 50px;
 }
 
+pre {
+  font-family: Consolino, monospace;
+}
 
 .video {
 	position: relative;
