@@ -50,8 +50,8 @@ main img {
   max-width: 100%;
 }
 
-main > p > img {
-  margin-bottom: 150px;
+main img + img {
+  margin-top: 150px;
 }
 
 main > ul {
