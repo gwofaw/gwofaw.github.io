@@ -1,9 +1,6 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
 permalink: pretty
-relative_permalinks: false
-destination: _site
-baseurl: /
 
 defaults:
   -
