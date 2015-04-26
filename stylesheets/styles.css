@@ -89,6 +89,9 @@ code {
   height: 100%;
 }
 
+footer {
+  font-size: 6px;
+}
 
 /* adapt to small screens */
 
