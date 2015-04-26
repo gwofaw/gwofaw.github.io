@@ -90,7 +90,15 @@ code {
 }
 
 footer {
+  width: 370px;
+  float: left;
+  position: fixed;
+  bottom: 50px;
   font-size: 6px;
+}
+
+footer p {
+  margin: 0px;
 }
 
 /* adapt to small screens */
@@ -102,7 +110,7 @@ footer {
     margin: 0;
   }
 
-  aside, main#content {
+  aside, main#content, footer {
     float: none;
     position: static;
     width: auto;
