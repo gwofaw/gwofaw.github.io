@@ -5,7 +5,7 @@ title: works
 [...]
 
 {% for work in site.works %}
-[{{work.tagline}} [{{ work.path }}]](/works/{{work.path}})
+[{{work.tagline}} [{{ work.name }}]](/works/{{work.name}})
 {% endfor %}
 
 [...]
