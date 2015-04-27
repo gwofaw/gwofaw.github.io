@@ -36,7 +36,6 @@ aside nav ul {
 aside a, aside a:hover, aside a:visited {
   color: #444;
   text-decoration: none;
-  cursor: auto;
 }
 
 main#content {
@@ -67,13 +66,11 @@ main > ul p {
 main > ul a {
   color: #444;
   text-decoration: none;
-  cursor: auto;
 }
 
 main > ul a:visited {
   color: #777;
   text-decoration: none;
-  cursor: auto;
 }
 
 pre {
