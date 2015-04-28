@@ -2,3 +2,9 @@ body {
   background-color: black;
   color: white;
 }
+
+@media print, screen and (max-width: 1024px) {
+
+  main#content {
+    border: 1px solid #2e2e2e;
+  }
