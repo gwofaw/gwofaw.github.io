@@ -17,8 +17,8 @@ collections:
 
 kramdown:
     input: GFM
-    # parse_span_html: true
-    # parse_block_html: true
+    parse_span_html: true
+    parse_block_html: true
 
 google_analytics:
   account: UA-3553343-1
