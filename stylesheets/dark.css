@@ -7,4 +7,5 @@ body {
 
   main#content {
     border: 1px solid #2e2e2e;
+    border-width: 1px 0;
   }
