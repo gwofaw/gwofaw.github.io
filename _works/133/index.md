@@ -4,5 +4,5 @@ tagline: goody
 ---
 
 
-![bild](P1020364.jpg)
+![bild](P1020364.JPG)
 
