@@ -20,5 +20,8 @@ kramdown:
     parse_span_html: true
     parse_block_html: true
 
+gems:
+  - jekyll-sitemap
+
 google_analytics:
   account: UA-3553343-1
