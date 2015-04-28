@@ -1,6 +1,6 @@
 ---
 title: "131"
-tagline: makeing the void count
+tagline: making the void count
 style: dark
 ---
 
