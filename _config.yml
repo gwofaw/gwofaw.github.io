@@ -16,7 +16,7 @@ collections:
     output: true
 
 kramdown:
-    input: kramdown
+    input: GFM
     # parse_span_html: true
     # parse_block_html: true
 
