@@ -25,3 +25,5 @@ gems:
 
 google_analytics:
   account: UA-3553343-1
+
+repository: https://github.com/gwofaw/gwofaw.github.io
