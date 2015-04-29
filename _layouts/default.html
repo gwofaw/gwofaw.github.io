@@ -35,8 +35,12 @@
 
 </main>
 
+
 <footer>
-  <a href="{{ site.repository }}/edit/master/{{ page.path }}">✎ ändern</a>
-  <a href="{{ site.repository }}/edit/master/{{ page.relative_path }}">✎ ändern</a>
-  <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
+{% if page.collection %}
+  {% assign path = page.relative_path %}
+{% else %}
+  {% assign path = page.path %}
+{% endif %}
+  <a href="{{ site.repository }}/edit/master/{{ path }}">✎ ändern</a>
 </footer>
