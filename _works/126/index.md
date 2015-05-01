@@ -1,6 +1,6 @@
 ---
 title: "126"
-tagline: lowest common multiple
+tagline: least common multiple
 ---
 
 
