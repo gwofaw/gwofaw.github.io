@@ -1,15 +1,15 @@
----
+﻿---
 title: vita
 ---
 
-    2010 2011
-    2012 2013
     2014 2015 
+    2012 2013
+    2010 2011
     AdbK karlsruhe class of s.bächli
 
 
-    2008 
-    2009 2010 
+    2010 
+    2008 2009
     training to become pastry chef
 
 
@@ -17,14 +17,13 @@ title: vita
     guest student AdbK karlsruhe
 
 
+    2007 {11}
+    2006 {5,6,7,8} 
+    art students league new york
+
+
+    2006 2007
     2004 2005
-    2006 2007 
     freie kunstakademie nürtingen then FKN now FKBW
 
-
-    2007 
-    november
-    2006 
-    may/june/july/august art students league new york
-
-    1983* 
+    *1983 
