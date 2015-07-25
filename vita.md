@@ -10,7 +10,7 @@ title: vita
 
     2010 
     2008 2009
-    training to become pastry chef
+    apprenticeship to become pastry chef
 
 
     2007 2008 
@@ -26,4 +26,4 @@ title: vita
     2004 2005
     freie kunstakademie nürtingen then FKN now FKBW
 
-    *1983 
+    *1983
