@@ -27,5 +27,5 @@ title: vita
     2004 2005
     freie kunstakademie nürtingen then FKN now FKBW
     
-    *1983
+    1983*
     
