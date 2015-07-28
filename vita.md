@@ -28,7 +28,7 @@ title: vita
     
     1983*
     
-    &nbsp;
+     
 
 **`exhibits`**
 
