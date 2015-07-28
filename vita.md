@@ -27,8 +27,9 @@ title: vita
     freie kunstakademie nürtingen then FKN now FKBW
     
     1983*
-
-
+    
+    
+    
 
 **`exhibits`**
 
