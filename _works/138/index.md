@@ -10,6 +10,7 @@ tagline: ege to the past
  -  ![bild](2015-06-23-0012.JPG)
  -  ![bild](2015-06-23-0007.JPG)
  -  ![bild](2015-06-23-0008.JPG)
- -  !<figure class="video">
-<<iframe width="420" height="315" src="https://www.youtube.com/embed/UGDmV3NWu38" frameborder="0" allowfullscreen></iframe>
+ 
+ <figure class="video">
+<iframe width="700" height="394" src="//www.youtube-nocookie.com/embed/UGDmV3NWu38?version=3&loop=1&playlist=UGDmV3NWu38&rel=0&autohide=1&autoplay=1&controls=0&modestbranding=1&showinfo=0&theme=light" allowfullscreen="allowfullscreen" style="border:none"></iframe>
 </figure>
