@@ -1,6 +1,6 @@
 ---
 title: "134"
-tagline: least common multiple II  <<disfunctional phenomenology>>
+tagline: least common multiple II  <<dysfunctional phenomenology>>
 ---
 
 
