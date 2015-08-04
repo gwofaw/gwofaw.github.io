@@ -6,7 +6,6 @@ tagline: least common multiple II  <<death is our companion>>
 
  -  ![bild](scan-150222-0004.jpg)
  -  ![bild](scan-150222-0005.jpg)
- -  ![bild](scan-150222-0006.jpg)
  -  ![bild](scan-150222-0007.jpg)
  -  ![bild](DSC00166.JPG)
  -  ![bild](DSC00167.JPG)
