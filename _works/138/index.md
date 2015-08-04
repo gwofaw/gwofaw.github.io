@@ -1,6 +1,6 @@
 ---
 title: "138"
-tagline: ege to the past
+tagline: edge to the past
 ---
 
 
