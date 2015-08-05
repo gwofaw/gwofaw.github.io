@@ -2,4 +2,4 @@
 title: VANITAS WOLF
 ---
 
- -  ![bild](4.jpg)
+![bild](4.jpg)
