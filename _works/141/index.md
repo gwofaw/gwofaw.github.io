@@ -1,5 +1,5 @@
 ---
-title: "140"
+title: "141"
 tagline: least common multiple III  <<conformal singularity>>
 ---
 
