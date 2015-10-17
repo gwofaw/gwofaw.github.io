@@ -1,6 +1,6 @@
 ---
 title: "136"
-tagline: least common multiple II  <<five photoraphies>>
+tagline: least common multiple II  <<five photographies>>
 ---
 
 
