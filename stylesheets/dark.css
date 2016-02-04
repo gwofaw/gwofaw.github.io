@@ -2,6 +2,13 @@ body {
   background-color: black;
   color: white;
 }
+aside a, aside a:hover, aside a:visited {
+  color: #444;
+}
+footer a {
+  color: #111;
+  text-decoration: none;
+}
 
 @media print, screen and (max-width: 1024px) {
 
