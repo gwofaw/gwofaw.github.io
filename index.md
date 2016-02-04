@@ -1,5 +1,6 @@
 ---
 title: VANITAS WOLF
+style: dark
 ---
 
 
