@@ -1,5 +1,6 @@
 ---
 title: works
+permalink: works
 ---
 
 [.\.\.]
