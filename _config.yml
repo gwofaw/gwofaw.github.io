@@ -1,6 +1,5 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
-permalink: /:title/
 
 defaults:
   -
