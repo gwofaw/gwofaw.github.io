@@ -1,6 +1,6 @@
 ---
 title: works
-permalink: /works/
+permalink: /works
 ---
 
 [.\.\.]
