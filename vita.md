@@ -1,5 +1,6 @@
 ---
 title: vita
+permalink: /vita
 ---
 
 
