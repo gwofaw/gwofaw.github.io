@@ -2,9 +2,17 @@
 title: links
 ---
 
-    friends and family
-    
-        Ingrid Wolf <http://kunstatelier-wolf.de>
+<div class="links">
+
+friends and family
+
+ -  Ingrid Wolf <http://kunstatelier-wolf.de>
+ -  noch einer ...  
+ 
+
+
+
+</div>
         
         
 
