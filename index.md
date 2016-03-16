@@ -1,6 +1,6 @@
 ---
 title: VANITAS WOLF
-style: dark
+style: gray
 ---
 
 ![bild](Detail_no_miracles.jpg)
