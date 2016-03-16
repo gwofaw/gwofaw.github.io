@@ -58,6 +58,10 @@ main > ul {
   margin-bottom: 15px;
 }
 
+.links > ul li {
+  margin-bottom: 15px;
+}
+
 main > ul img {
   margin-bottom: 150px;
 }
