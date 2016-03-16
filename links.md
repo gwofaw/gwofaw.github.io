@@ -4,6 +4,7 @@ title: links
 
 <div class="links">
 
+
 friends and family
 
  -  Ingrid Wolf <http://kunstatelier-wolf.de>
@@ -13,6 +14,3 @@ friends and family
 
 
 </div>
-        
-        
-
