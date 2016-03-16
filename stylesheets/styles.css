@@ -55,11 +55,11 @@ main > ul {
 .links > ul {
   list-style-type: none;
   padding-left: 1em;
-  margin-bottom: 15px;
+  margin-bottom: 0.5em;
 }
 
 .links > ul li {
-  margin-bottom: 15px;
+  margin-bottom: 0.3;
 }
 
 main > ul img {
