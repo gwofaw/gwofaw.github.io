@@ -52,6 +52,11 @@ main > ul {
   padding-left: 0;
 }
 
+.links > ul {
+  list-style-type: none;
+  padding-left: 4em;
+}
+
 main > ul img {
   margin-bottom: 150px;
 }
