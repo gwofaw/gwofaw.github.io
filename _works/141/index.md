@@ -14,4 +14,11 @@ tagline: least common multiple III  <<conformal singularity>>
  -  ![bild](DSC067541.JPG)
  
  -  ![bild](2015-10-08-0011.jpg)
+ 
+ -  ![bild](diplbildCloseup.jpg)
+  
+ -  ![bild](diplbildDetail.jpg)
+ 
+ -  ![bild](diplbildDetail1.jpg)
+ 
 
