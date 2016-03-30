@@ -69,10 +69,12 @@ permalink: /vita
             
     2007
     "Im Flur”
-    Gegenausstellung zur Jahres-/ Winterausstellung AdbK Ka. 
+    Gegenausstellung zur Jahres-/ Winterausstellung der
+    AdbK Ka. 
 
     2006
-    Kunst und Kulturpreis des Heidelberger Club für Wirtschaft und Kultur e.V.
+    Kunst und Kulturpreis des Heidelberger
+    Club für Wirtschaft und Kultur e.V.
     Preisträgerin im Zuge des 18. Heidelberger Symposiums
             
     2006
