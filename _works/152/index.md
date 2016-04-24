@@ -1,6 +1,7 @@
 ---
 title: "152"
-tagline: no magic no miracles no god
+tagline: ¬M∧¬W⇒¬G
+
 ---
 
 
