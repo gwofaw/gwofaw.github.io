@@ -10,7 +10,7 @@
   <link rel=stylesheet href=/stylesheets/conso.css>
   <link rel=stylesheet href=/stylesheets/styles.css>
   {% for css in page.style %}<link rel=stylesheet href=/stylesheets/{{ css }}.css>{% endfor %}
-  {% for script in page.script %}<script src={{ script }} />{% endfor %}
+  {% for script in page.script %}<script src={{ script }}></script>{% endfor %}
 </head>
 
 <body>
