@@ -1,0 +1,1 @@
+titelbild = document.getElementById('titelbild')
