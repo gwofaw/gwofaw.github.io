@@ -62,6 +62,11 @@ main > ul {
   margin-bottom: 0.5em;
 }
 
+main > .luftig {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
 main > ul img {
   margin-bottom: 150px;
 }
