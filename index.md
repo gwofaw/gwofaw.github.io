@@ -3,4 +3,4 @@ title: VANITAS WOLF
 style: gray
 ---
 
-![bild](splash.jpg)
+<img id=titelbild alt="Titelbild" src=/img/det/det1.jpg>
