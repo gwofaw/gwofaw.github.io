@@ -5,19 +5,12 @@ url: http://vanitaswolf.de
 description: Artwork by Anita Wolf, Karlsruhe
 
 social:
-  name: likevanitaswolf
+  type: Person
+  name: Anita Wolf
   links:
     - https://www.facebook.com/likevanitaswolf
     - https://plus.google.com/116304237215637732883
     - http://www.saatchiart.com/vanitaswolf
-
-seo:
-  type: Person
-  name: Anita Wolf
-  links:
-      - https://www.facebook.com/likevanitaswolf
-      - https://plus.google.com/116304237215637732883
-      - http://www.saatchiart.com/vanitaswolf
 
 facebook:
   publisher: likevanitaswolf
