@@ -1,13 +1,22 @@
 name: VANITAS WOLF
-url: http://vanitaswolf.de
-title: Vanitas Wolf
-description: Artwork by Anita Wolf, Karlsruhe
+title: VANITAS WOLF
 author: vanitaswolf
+url: http://vanitaswolf.de
+description: Artwork by Anita Wolf, Karlsruhe
+
 social:
   - name: likevanitaswolf
   - links:
     - https://www.facebook.com/likevanitaswolf
+    - https://plus.google.com/116304237215637732883
     - http://www.saatchiart.com/vanitaswolf
+
+seo:
+  - type: Person
+  - links:
+      - https://www.facebook.com/likevanitaswolf
+      - https://plus.google.com/116304237215637732883
+      - http://www.saatchiart.com/vanitaswolf
 
 facebook:
   publisher: likevanitaswolf
