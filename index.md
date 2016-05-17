@@ -4,5 +4,5 @@ style: gray
 script: /js/diaschau.js
 ---
 
-![Titelbild](/img/det/det1.jpg){: #titelbild}
+![Detail photograph of painting](/img/det/det1.jpg){: #titelbild}
 
