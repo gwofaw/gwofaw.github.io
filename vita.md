@@ -1,6 +1,13 @@
 ---
 title: vita
 permalink: /vita
+seo:
+  name: Anita Wolf
+  type: Person
+  alumniOf: Akademie der bildenden Künste, Karlsruhe
+  birthDate: 1983-04-02 01:00:00
+  address: Karlsruhe, Germany
+  jobTitle: artist
 ---
 
 
