@@ -11,10 +11,7 @@
   {% for css in page.style %}<link rel=stylesheet href=/stylesheets/{{ css }}.css>{% endfor %}
   {% for script in page.script %}<script src={{ script }}></script>{% endfor %}
 
-  
-  {% seo %}
-
-  
+  {% seo title=false %}
 </head>
 
 <body>
