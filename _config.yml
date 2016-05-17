@@ -1,5 +1,6 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
+author: vanitaswolf
 
 defaults:
   -
@@ -19,8 +20,14 @@ kramdown:
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 google_analytics:
   account: UA-3553343-1
 
 repository: https://github.com/gwofaw/gwofaw.github.io
+
+facebook:
+  publisher: likevanitaswolf
+
+google_site_verification: BZEWqtVWou1GmIIGrJ8FMsQXRcLSW-nzHo9ds-7_i10
