@@ -1,6 +1,23 @@
 name: VANITAS WOLF
 url: http://vanitaswolf.de
+title: Vanitas Wolf
+description: Artwork by Anita Wolf, Karlsruhe
 author: vanitaswolf
+social:
+  - name: likevanitaswolf
+  - links:
+    - https://www.facebook.com/likevanitaswolf
+    - http://www.saatchiart.com/vanitaswolf
+
+facebook:
+  publisher: likevanitaswolf
+
+google_site_verification: BZEWqtVWou1GmIIGrJ8FMsQXRcLSW-nzHo9ds-7_i10
+
+google_analytics:
+  account: UA-3553343-1
+
+repository: https://github.com/gwofaw/gwofaw.github.io
 
 defaults:
   -
@@ -21,13 +38,3 @@ kramdown:
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-google_analytics:
-  account: UA-3553343-1
-
-repository: https://github.com/gwofaw/gwofaw.github.io
-
-facebook:
-  publisher: likevanitaswolf
-
-google_site_verification: BZEWqtVWou1GmIIGrJ8FMsQXRcLSW-nzHo9ds-7_i10
