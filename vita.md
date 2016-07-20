@@ -42,6 +42,10 @@ permalink: /vita
 
 
     group shows
+    
+    2016
+    "Top 16" Meisterschüler und Meisterschülerinnen der AdbK Karlsruhe 
+    noch bis 21. August im Mannheimer Kunstverein
 
     2015
     “die neue Sinnlichkeit in der zeitgenössischen Kunst”
