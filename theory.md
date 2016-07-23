@@ -3,7 +3,7 @@ title: theory
 ---
 
 
- -  ![bild](essentielles.jpg)
+ -  [![bild](essentielles.jpg)](essentielles.jpg)
  
  -  ![bild](annaehrungAN.jpg)
  
