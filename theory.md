@@ -1,5 +1,5 @@
 ---
-title: illu_statement
+title: theory
 ---
 
 
