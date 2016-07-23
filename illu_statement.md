@@ -11,10 +11,10 @@ title: illu_statement
  
  -  ![bild](inspiration.jpg)
  
+ -  ![bild](gefuehle.jpg)
+ 
  -  ![bild](leben.jpg)
  
- -  ![bild](gefuehle.jpg)
-  
  -  ![bild](ursprung_der_aktionen.jpg)
  
  -  ![bild](Reaktion_Aktion.jpg)
