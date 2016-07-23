@@ -3,23 +3,22 @@ title: theory
 ---
 
 
- -  [![bild](essentielles.jpg)](essentielles.jpg)
+ -  [![bild](theory/essentielles.jpg)](theory/essentielles.jpg)
  
- -  ![bild](annaehrungAN.jpg)
+ -  [![bild](theory/annaehrungAN.jpg)](theory/annaehrungAN.jpg)
  
- -  ![bild](kunstschaffen.jpg)
+ -  [![bild](theory/kunstschaffen.jpg)](theory/kunstschaffen.jpg)
  
- -  ![bild](inspiration.jpg)
+ -  [![bild](theory/inspiration.jpg)](theory/inspiration.jpg)
  
- -  ![bild](gefuehle.jpg)
+ -  [![bild](theory/gefuehle.jpg)](theory/gefuehle.jpg)
  
- -  ![bild](leben.jpg)
+ -  [![bild](theory/leben.jpg)](theory/leben.jpg)
  
- -  ![bild](ursprung_der_aktionen.jpg)
+ -  [![bild](theory/ursprung_der_aktionen.jpg)](theory/ursprung_der_aktionen.jpg)
  
- -  ![bild](Reaktion_Aktion.jpg)
+ -  [![bild](theory/Reaktion_Aktion.jpg)](theory/Reaktion_Aktion.jpg)
  
- -  ![bild](ratio_funktion.jpg)
+ -  [![bild](theory/ratio_funktion.jpg)](theory/ratio_funktion.jpg)
   
- -  ![bild](mix_real_vision_form.jpg)
- 
+ -  [![bild](theory/mix_real_vision_form.jpg)](theory/mix_real_vision_form.jpg)
