@@ -1,24 +1,24 @@
 ---
-title: theory
+title: theories
 ---
 
 
- -  [![bild](theory/essentielles.jpg)](theory/essentielles.jpg)
+ -  [![bild](theories/essentielles.jpg)](theories/essentielles.jpg)
  
- -  [![bild](theory/annaehrungAN.jpg)](theory/annaehrungAN.jpg)
+ -  [![bild](theories/annaehrungAN.jpg)](theories/annaehrungAN.jpg)
  
- -  [![bild](theory/kunstschaffen.jpg)](theory/kunstschaffen.jpg)
+ -  [![bild](theories/kunstschaffen.jpg)](theories/kunstschaffen.jpg)
  
- -  [![bild](theory/inspiration.jpg)](theory/inspiration.jpg)
+ -  [![bild](theories/inspiration.jpg)](theories/inspiration.jpg)
  
- -  [![bild](theory/gefuehle.jpg)](theory/gefuehle.jpg)
+ -  [![bild](theories/gefuehle.jpg)](theories/gefuehle.jpg)
  
- -  [![bild](theory/leben.jpg)](theory/leben.jpg)
+ -  [![bild](theories/leben.jpg)](theories/leben.jpg)
  
- -  [![bild](theory/ursprung_der_aktionen.jpg)](theory/ursprung_der_aktionen.jpg)
+ -  [![bild](theories/ursprung_der_aktionen.jpg)](theories/ursprung_der_aktionen.jpg)
  
- -  [![bild](theory/Reaktion_Aktion.jpg)](theory/Reaktion_Aktion.jpg)
+ -  [![bild](theories/Reaktion_Aktion.jpg)](theories/Reaktion_Aktion.jpg)
  
- -  [![bild](theory/ratio_funktion.jpg)](theory/ratio_funktion.jpg)
+ -  [![bild](theories/ratio_funktion.jpg)](theories/ratio_funktion.jpg)
   
- -  [![bild](theory/mix_real_vision_form.jpg)](theory/mix_real_vision_form.jpg)
+ -  [![bild](theories/mix_real_vision_form.jpg)](theories/mix_real_vision_form.jpg)
