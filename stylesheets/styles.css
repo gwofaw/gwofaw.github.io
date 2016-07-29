@@ -9,7 +9,6 @@ body {
 
 aside {
   position: fixed;
-  float: left;
   width: 200px;
   line-height: 2em;
 }
