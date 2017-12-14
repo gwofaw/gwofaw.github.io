@@ -4,4 +4,6 @@ style: gray
 #script: /js/diaschau.js
 ---
 
-jjj
+away, the snow covers everything
+dark and light
+don't blame the ice, for being cold
