@@ -4,6 +4,13 @@ permalink: /vita
 ---
 
 
+    2018 2019
+    2016 2017
+    apprenticeship to become geriatric nurse
+    
+    2015 2016
+    master students program Adbk karlsruhe 
+    
     2014 2015 
     2012 2013
     2010 2011
