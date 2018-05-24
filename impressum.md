@@ -3,6 +3,7 @@ title: impressum
 ---
 <pre>
 Impressum
+
 Impressum dieser Website erstellt über den Generator der Deutschen Anwaltshotline AG 
 https://www.deutsche-anwaltshotline.de/recht-auf-ihrer-website/impressum-generator
 
@@ -20,9 +21,9 @@ E-Mail-Adresse: vanitaswolf@ymail.com
 Verantwortlicher für lyrisch-redaktionaere Inhalte gem. § 55 II RstV:
 Anita Wolf, http://www.vanitaswolf.de
 
-Bilder und Grafiken:
-Angaben der Quelle für verwendetes Bilder- und Grafikmaterial:
+Verantwortlich für Bilder und Grafiken/ Quelle für verwendetes Bilder- und Grafikmaterial:
 Anita Wolf, http://www.vanitaswolf.de
+
 Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, 
 die Sie unter http://ec.europa.eu/consumers/odr/ finden.
