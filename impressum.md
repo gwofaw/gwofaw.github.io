@@ -26,5 +26,5 @@ Anita Wolf, http://www.vanitaswolf.de
 
 Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, 
-die Sie unter <div class="links">http://ec.europa.eu/consumers/odr/</div> finden.
+die Sie unter <div class="links"> http://ec.europa.eu/consumers/odr/</div> finden.
 </pre>
