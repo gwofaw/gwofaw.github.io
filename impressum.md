@@ -6,6 +6,7 @@ title: impressum
 Impressum
 
 Impressum dieser Website erstellt über den Generator der Deutschen Anwaltshotline AG 
+ 
  <https://www.deutsche-anwaltshotline.de/recht-auf-ihrer-website/impressum-generator/div>
 
 Angaben gem. § 5 TMG
@@ -20,9 +21,11 @@ Telefonnummer: +491796696738
 E-Mail-Adresse: vanitaswolf@ymail.com
 
 Verantwortlicher für lyrisch-redaktionaere Inhalte gem. § 55 II RstV:
+
 Anita Wolf, http://www.vanitaswolf.de
 
 Verantwortlich für Bilder und Grafiken/ Quelle für verwendetes Bilder- und Grafikmaterial:
+
 Anita Wolf, http://www.vanitaswolf.de
 
 Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO
