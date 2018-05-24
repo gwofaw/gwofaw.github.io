@@ -1,7 +1,7 @@
 ---
 title: impressum
 ---
-<pre<div class="links">>
+<div class="links">
 
 Impressum
 
@@ -29,4 +29,4 @@ Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, 
 die Sie unter <http://ec.europa.eu/consumers/odr> finden.
  
- </div/pre>>
+ </div>
