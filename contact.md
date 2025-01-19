@@ -2,7 +2,8 @@
 title: contact
 ---
 
-vanitaswolf@ymail.com
+vanitaswolf@gmail.com
 
-[like me](https://www.facebook.com/likevanitaswolf)
+[like me fb](https://www.facebook.com/likevanitaswolf)
+[like me insta](https://www.instagram.com/vanitas_wolf)
 
