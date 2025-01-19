@@ -4,6 +4,8 @@ title: links
 
 <div class="links">
 
+ contemporaries, friends and family
+ 
  -  Anki King <http://ankiking.com>
  -  Claudia Urlaß <http://claudia-urlass.de>
  -  Kim Helbig <http://kimhelbig.de>
