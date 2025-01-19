@@ -1,4 +1,7 @@
-
+---
+title: shows
+---
+<div class="links">
 
     solo
 
@@ -56,4 +59,6 @@
             
     2005
     Projekt: "Stadt am Fluss"
+
+    </div>
     Rathaus Nürtigen
