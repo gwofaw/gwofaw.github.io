@@ -8,7 +8,11 @@ title: shows
     2013
     “Ich war ein Kind und träumte viel”
     Residenzschloss Ludwigsburg
-
+    
+    *)2007 - 2025
+    continuously since *)  this website has been online and updated 
+    there is also an artists page on facebook and I occasionally will share new works on instagram
+    
 
     group shows
     
@@ -59,6 +63,6 @@ title: shows
             
     2005
     Projekt: "Stadt am Fluss"
+    Rathaus Nürtigen
 
     </div>
-    Rathaus Nürtigen
